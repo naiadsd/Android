@@ -1,0 +1,335 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\16456a25c8260d0576cb1a471fce1765\jetified-firebase-database-20.0.4\AndroidManifest.xml:15:1-38:12
+MERGED from [androidx.wear:wear:1.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\a0f00d3909f8f8eea279efa8db25d640\wear-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\59fe83b997a9a1669f60c1120fffb1b3\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.0-alpha01] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\a90484c6ca70d43f83a7af161c69e1ac\material-1.2.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\bbd99d7b1a5752ffa22f607b3dd6959a\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-firestore:24.0.2] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\f6cdfe2132a4e848c62e186c605c4bee\jetified-firebase-firestore-24.0.2\AndroidManifest.xml:2:1-26:12
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\db52d908033f81ec051b9469450bb642\jetified-grpc-android-1.44.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.room:room-rxjava2:2.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\a58419d9afd3dbe691aa5d1614e7c0ff\room-rxjava2-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\1cda11d13db6c9f16a6ef204c38c364c\room-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\311c5215e1977ba7d74d4a32d41f2465\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\2a1104ed4bcbab6dfbbe73f71bfed047\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\9456e6028f58c36f085355773c38e5df\jetified-firebase-common-20.1.0\AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\2ae8f832dc8a1c38028c798a449fc2a4\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta05] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\cd7d7b4697b7689c30faf106eadabe5b\jetified-viewpager2-1.0.0-beta05\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\9b4ed169398f9fc52a61610b1c6d0a98\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\fef819f7c7a4dda69cc2b67fef238762\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\e462f12a9620244944cbe3a64e974320\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\1963eead024ddf0e809bd82cff07c901\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\70c9dd08b0ee5ffa1c3d60270edc077e\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\17daa7de827ad1cec3866a5249f7eedb\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\7de05fefef9324be05ea6746088b84b0\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\ff5fddbe04efa508609c8190329d5503\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\c9ed704d18cb469b3395b76176dfc0b4\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\f372df089b5ba674499becd0e60d1dea\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\d1e438adf9e9a11cbb19dbe8ee97def9\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\898f099dcc5472f75a4688f0c8418aaa\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\7e5bb229d7d446d38fd10529e19f1155\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\a57618a915cc496a39d5b92cc9e8257e\legacy-support-core-utils-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\aef6eb6c97b2424d2c631fd3a02a780e\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\3047e5d1f4fdcd342a34d661647605b4\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\e87bad7a687d5158d4ab0156c4d5e7e9\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\1119d1817ed035d5287598c5779f42c3\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\3696ca2b931b57f15fc2b290144d1d63\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\7b7226770e0a6a1f8945e59c89f2baa8\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\cfe3ebc766515f693198273c6dde08a3\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\57480e911eb64499ca713432ce1b7646\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\4eb91669db1c016839d1911a23092526\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\3bfc34b745f83fbe5ccefa11d375b50a\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\7a70dfa80539c3588e8f54cc047d11c4\sqlite-framework-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\df785f518fbeccca89fc02629a4cb030\sqlite-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\1da045494c9f539ee15783a9043e73d4\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\635c516289e61ddece6defd382a9b836\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\44459a4fbbf2c2b5a6088d635a5be5d8\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\6df185cbd326825e6d45d54069b28a7c\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\5312ac48ab92b319935ad213ec3be30a\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\ccdb13f519e9793240a575fdc5456330\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\200062724b7e0911864e0c081716a901\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\a7f9a20665d7220debdfe51a24289454\documentfile-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\8a05f386c31380de31294acef230873d\localbroadcastmanager-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\ff56da2695a2141281674910f1638ad3\print-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\ecf2c25ac1230f808e057cdede9c3129\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\28d6b654d214e4477c47e1c32f8272c7\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.INTERNET
+ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\16456a25c8260d0576cb1a471fce1765\jetified-firebase-database-20.0.4\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\16456a25c8260d0576cb1a471fce1765\jetified-firebase-database-20.0.4\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.0.2] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\f6cdfe2132a4e848c62e186c605c4bee\jetified-firebase-firestore-24.0.2\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.0.2] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\f6cdfe2132a4e848c62e186c605c4bee\jetified-firebase-firestore-24.0.2\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\16456a25c8260d0576cb1a471fce1765\jetified-firebase-database-20.0.4\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\16456a25c8260d0576cb1a471fce1765\jetified-firebase-database-20.0.4\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.0.2] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\f6cdfe2132a4e848c62e186c605c4bee\jetified-firebase-firestore-24.0.2\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.0.2] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\f6cdfe2132a4e848c62e186c605c4bee\jetified-firebase-firestore-24.0.2\AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\db52d908033f81ec051b9469450bb642\jetified-grpc-android-1.44.1\AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\db52d908033f81ec051b9469450bb642\jetified-grpc-android-1.44.1\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:8:22-76
+application
+ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:10:5-40:19
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\16456a25c8260d0576cb1a471fce1765\jetified-firebase-database-20.0.4\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\16456a25c8260d0576cb1a471fce1765\jetified-firebase-database-20.0.4\AndroidManifest.xml:28:5-36:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\59fe83b997a9a1669f60c1120fffb1b3\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\59fe83b997a9a1669f60c1120fffb1b3\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha01] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\a90484c6ca70d43f83a7af161c69e1ac\material-1.2.0-alpha01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha01] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\a90484c6ca70d43f83a7af161c69e1ac\material-1.2.0-alpha01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-firestore:24.0.2] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\f6cdfe2132a4e848c62e186c605c4bee\jetified-firebase-firestore-24.0.2\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.2] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\f6cdfe2132a4e848c62e186c605c4bee\jetified-firebase-firestore-24.0.2\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\311c5215e1977ba7d74d4a32d41f2465\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\311c5215e1977ba7d74d4a32d41f2465\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\2a1104ed4bcbab6dfbbe73f71bfed047\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\2a1104ed4bcbab6dfbbe73f71bfed047\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\9456e6028f58c36f085355773c38e5df\jetified-firebase-common-20.1.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\9456e6028f58c36f085355773c38e5df\jetified-firebase-common-20.1.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\e462f12a9620244944cbe3a64e974320\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\e462f12a9620244944cbe3a64e974320\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\1963eead024ddf0e809bd82cff07c901\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\1963eead024ddf0e809bd82cff07c901\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\70c9dd08b0ee5ffa1c3d60270edc077e\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\70c9dd08b0ee5ffa1c3d60270edc077e\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\1119d1817ed035d5287598c5779f42c3\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\1119d1817ed035d5287598c5779f42c3\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\44459a4fbbf2c2b5a6088d635a5be5d8\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\44459a4fbbf2c2b5a6088d635a5be5d8\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\1119d1817ed035d5287598c5779f42c3\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.naiadsd.SplashScreenActivity
+ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:18:9-26:20
+	android:theme
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:20:13-47
+	android:name
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:19:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.example.naiadsd.ProductListActivity
+ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:27:9-57
+	android:name
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:27:19-54
+activity#com.example.naiadsd.CustomerListActivity
+ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:28:9-58
+	android:name
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:28:19-55
+activity#com.example.naiadsd.LoginActivity
+ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:29:9-50
+	android:name
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml:29:19-48
+uses-sdk
+INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml
+INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\16456a25c8260d0576cb1a471fce1765\jetified-firebase-database-20.0.4\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\16456a25c8260d0576cb1a471fce1765\jetified-firebase-database-20.0.4\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.wear:wear:1.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\a0f00d3909f8f8eea279efa8db25d640\wear-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear:wear:1.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\a0f00d3909f8f8eea279efa8db25d640\wear-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\59fe83b997a9a1669f60c1120fffb1b3\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\59fe83b997a9a1669f60c1120fffb1b3\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.0-alpha01] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\a90484c6ca70d43f83a7af161c69e1ac\material-1.2.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha01] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\a90484c6ca70d43f83a7af161c69e1ac\material-1.2.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\bbd99d7b1a5752ffa22f607b3dd6959a\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\bbd99d7b1a5752ffa22f607b3dd6959a\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-firestore:24.0.2] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\f6cdfe2132a4e848c62e186c605c4bee\jetified-firebase-firestore-24.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:24.0.2] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\f6cdfe2132a4e848c62e186c605c4bee\jetified-firebase-firestore-24.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\db52d908033f81ec051b9469450bb642\jetified-grpc-android-1.44.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\db52d908033f81ec051b9469450bb642\jetified-grpc-android-1.44.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-rxjava2:2.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\a58419d9afd3dbe691aa5d1614e7c0ff\room-rxjava2-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-rxjava2:2.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\a58419d9afd3dbe691aa5d1614e7c0ff\room-rxjava2-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\1cda11d13db6c9f16a6ef204c38c364c\room-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\1cda11d13db6c9f16a6ef204c38c364c\room-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\311c5215e1977ba7d74d4a32d41f2465\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\311c5215e1977ba7d74d4a32d41f2465\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\2a1104ed4bcbab6dfbbe73f71bfed047\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\2a1104ed4bcbab6dfbbe73f71bfed047\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\9456e6028f58c36f085355773c38e5df\jetified-firebase-common-20.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\9456e6028f58c36f085355773c38e5df\jetified-firebase-common-20.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\2ae8f832dc8a1c38028c798a449fc2a4\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\2ae8f832dc8a1c38028c798a449fc2a4\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta05] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\cd7d7b4697b7689c30faf106eadabe5b\jetified-viewpager2-1.0.0-beta05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta05] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\cd7d7b4697b7689c30faf106eadabe5b\jetified-viewpager2-1.0.0-beta05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\9b4ed169398f9fc52a61610b1c6d0a98\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\9b4ed169398f9fc52a61610b1c6d0a98\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\fef819f7c7a4dda69cc2b67fef238762\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\fef819f7c7a4dda69cc2b67fef238762\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\e462f12a9620244944cbe3a64e974320\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\e462f12a9620244944cbe3a64e974320\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\1963eead024ddf0e809bd82cff07c901\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\1963eead024ddf0e809bd82cff07c901\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\70c9dd08b0ee5ffa1c3d60270edc077e\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\70c9dd08b0ee5ffa1c3d60270edc077e\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\17daa7de827ad1cec3866a5249f7eedb\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\17daa7de827ad1cec3866a5249f7eedb\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\7de05fefef9324be05ea6746088b84b0\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\7de05fefef9324be05ea6746088b84b0\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\ff5fddbe04efa508609c8190329d5503\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\ff5fddbe04efa508609c8190329d5503\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\c9ed704d18cb469b3395b76176dfc0b4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\c9ed704d18cb469b3395b76176dfc0b4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\f372df089b5ba674499becd0e60d1dea\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\f372df089b5ba674499becd0e60d1dea\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\d1e438adf9e9a11cbb19dbe8ee97def9\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\d1e438adf9e9a11cbb19dbe8ee97def9\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\898f099dcc5472f75a4688f0c8418aaa\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\898f099dcc5472f75a4688f0c8418aaa\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\7e5bb229d7d446d38fd10529e19f1155\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\7e5bb229d7d446d38fd10529e19f1155\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\a57618a915cc496a39d5b92cc9e8257e\legacy-support-core-utils-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\a57618a915cc496a39d5b92cc9e8257e\legacy-support-core-utils-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\aef6eb6c97b2424d2c631fd3a02a780e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\aef6eb6c97b2424d2c631fd3a02a780e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\3047e5d1f4fdcd342a34d661647605b4\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\3047e5d1f4fdcd342a34d661647605b4\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\e87bad7a687d5158d4ab0156c4d5e7e9\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\e87bad7a687d5158d4ab0156c4d5e7e9\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\1119d1817ed035d5287598c5779f42c3\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\1119d1817ed035d5287598c5779f42c3\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\3696ca2b931b57f15fc2b290144d1d63\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\3696ca2b931b57f15fc2b290144d1d63\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\7b7226770e0a6a1f8945e59c89f2baa8\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\7b7226770e0a6a1f8945e59c89f2baa8\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\cfe3ebc766515f693198273c6dde08a3\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\cfe3ebc766515f693198273c6dde08a3\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\57480e911eb64499ca713432ce1b7646\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\57480e911eb64499ca713432ce1b7646\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\4eb91669db1c016839d1911a23092526\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\4eb91669db1c016839d1911a23092526\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\3bfc34b745f83fbe5ccefa11d375b50a\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\3bfc34b745f83fbe5ccefa11d375b50a\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\7a70dfa80539c3588e8f54cc047d11c4\sqlite-framework-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\7a70dfa80539c3588e8f54cc047d11c4\sqlite-framework-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\df785f518fbeccca89fc02629a4cb030\sqlite-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\df785f518fbeccca89fc02629a4cb030\sqlite-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\1da045494c9f539ee15783a9043e73d4\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\1da045494c9f539ee15783a9043e73d4\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\635c516289e61ddece6defd382a9b836\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\635c516289e61ddece6defd382a9b836\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\44459a4fbbf2c2b5a6088d635a5be5d8\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\44459a4fbbf2c2b5a6088d635a5be5d8\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\6df185cbd326825e6d45d54069b28a7c\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\6df185cbd326825e6d45d54069b28a7c\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\5312ac48ab92b319935ad213ec3be30a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\5312ac48ab92b319935ad213ec3be30a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\ccdb13f519e9793240a575fdc5456330\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\ccdb13f519e9793240a575fdc5456330\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\200062724b7e0911864e0c081716a901\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\200062724b7e0911864e0c081716a901\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\a7f9a20665d7220debdfe51a24289454\documentfile-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\a7f9a20665d7220debdfe51a24289454\documentfile-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\8a05f386c31380de31294acef230873d\localbroadcastmanager-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\8a05f386c31380de31294acef230873d\localbroadcastmanager-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\ff56da2695a2141281674910f1638ad3\print-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\ff56da2695a2141281674910f1638ad3\print-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\ecf2c25ac1230f808e057cdede9c3129\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\ecf2c25ac1230f808e057cdede9c3129\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\28d6b654d214e4477c47e1c32f8272c7\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\28d6b654d214e4477c47e1c32f8272c7\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml
+INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml
+		ADDED from D:\Naiadsd\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Naiadsd\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:20.0.4] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\16456a25c8260d0576cb1a471fce1765\jetified-firebase-database-20.0.4\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.2] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\f6cdfe2132a4e848c62e186c605c4bee\jetified-firebase-firestore-24.0.2\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.2] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\f6cdfe2132a4e848c62e186c605c4bee\jetified-firebase-firestore-24.0.2\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\9456e6028f58c36f085355773c38e5df\jetified-firebase-common-20.1.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\9456e6028f58c36f085355773c38e5df\jetified-firebase-common-20.1.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:20.0.4] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\16456a25c8260d0576cb1a471fce1765\jetified-firebase-database-20.0.4\AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\9456e6028f58c36f085355773c38e5df\jetified-firebase-common-20.1.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\9456e6028f58c36f085355773c38e5df\jetified-firebase-common-20.1.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.4] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\16456a25c8260d0576cb1a471fce1765\jetified-firebase-database-20.0.4\AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.0.4] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\16456a25c8260d0576cb1a471fce1765\jetified-firebase-database-20.0.4\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.0.4] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\16456a25c8260d0576cb1a471fce1765\jetified-firebase-database-20.0.4\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.4] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\16456a25c8260d0576cb1a471fce1765\jetified-firebase-database-20.0.4\AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.0.2] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\f6cdfe2132a4e848c62e186c605c4bee\jetified-firebase-firestore-24.0.2\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.0.2] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\f6cdfe2132a4e848c62e186c605c4bee\jetified-firebase-firestore-24.0.2\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.0.2] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\f6cdfe2132a4e848c62e186c605c4bee\jetified-firebase-firestore-24.0.2\AndroidManifest.xml:21:17-111
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\9456e6028f58c36f085355773c38e5df\jetified-firebase-common-20.1.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\9456e6028f58c36f085355773c38e5df\jetified-firebase-common-20.1.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\9456e6028f58c36f085355773c38e5df\jetified-firebase-common-20.1.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\9456e6028f58c36f085355773c38e5df\jetified-firebase-common-20.1.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\9456e6028f58c36f085355773c38e5df\jetified-firebase-common-20.1.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\9456e6028f58c36f085355773c38e5df\jetified-firebase-common-20.1.0\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\e462f12a9620244944cbe3a64e974320\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\e462f12a9620244944cbe3a64e974320\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\e462f12a9620244944cbe3a64e974320\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\e462f12a9620244944cbe3a64e974320\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\70c9dd08b0ee5ffa1c3d60270edc077e\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\70c9dd08b0ee5ffa1c3d60270edc077e\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Nagendra.b\.gradle\caches\transforms-2\files-2.1\70c9dd08b0ee5ffa1c3d60270edc077e\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58

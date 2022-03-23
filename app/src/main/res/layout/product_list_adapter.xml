@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_marginLeft="1dp"
+    android:layout_marginRight="1dp"
+    android:clickable="true"
+    android:focusable="true"
+    app:cardUseCompatPadding="true"
+    android:elevation="4dp"
+    android:foreground="?android:attr/selectableItemBackground">
+    <LinearLayout
+        android:id="@+id/layout"
+        android:weightSum="4"
+        android:padding="5dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/itemId"
+        android:text="itemId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:gravity="left"
+        android:textSize="12sp"
+        android:layout_weight="1" />
+
+
+    <TextView
+        android:id="@+id/itemName"
+        android:text="item Name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:gravity="left"
+        android:textSize="12sp"
+        android:layout_weight="1" />
+
+
+    <TextView
+        android:id="@+id/itemDescription"
+        android:text="item description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:gravity="left"
+        android:textSize="12sp"
+        android:layout_weight="1"  />
+
+    <TextView
+        android:id="@+id/itemMrp"
+        android:text="itemId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="12sp"
+        android:layout_weight="1"/>
+    </LinearLayout>
+  <!--  <EditText
+        android:id="@+id/etQnty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:numeric="integer"
+        android:visibility="visible"
+        android:hint="Quantity"
+        android:textAllCaps="false"
+        />-->
+
+
+        <!--this is the actual edit text which takes the input-->
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/etQnty"
+            android:layout_width="80dp"
+            android:layout_height="35dp"
+            android:scaleType="fitXY"
+            android:layout_marginLeft="3dp"
+            android:layout_marginStart="20dp"
+            android:layout_gravity="top|right"
+            android:backgroundTint="@color/app_thame"
+            android:layout_marginRight="3dp"
+            android:layout_weight="0.35"
+            android:layout_marginTop="20dp"
+            android:clickable="true"
+            android:focusable="true"  />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnAdd"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:scaleType="fitXY"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_gravity="right|bottom"
+        android:backgroundTint="@color/app_thame"
+        android:background="@drawable/ic_baseline_add_24"
+        android:layout_marginRight="3dp"
+        android:layout_weight="0.35"
+        android:clickable="true"
+        android:focusable="true"  />
+
+</androidx.cardview.widget.CardView>
